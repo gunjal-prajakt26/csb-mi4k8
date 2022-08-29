@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/css/main.ce290c5a.chunk.css",
+    "main.js": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/js/main.7ac943fb.chunk.js",
+    "main.js.map": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/js/main.7ac943fb.chunk.js.map",
+    "runtime-main.js": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/js/runtime-main.5c80a7cf.js",
+    "runtime-main.js.map": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/js/runtime-main.5c80a7cf.js.map",
+    "static/js/2.c7b66185.chunk.js": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/js/2.c7b66185.chunk.js",
+    "static/js/2.c7b66185.chunk.js.map": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/js/2.c7b66185.chunk.js.map",
+    "index.html": "https://gunjal-prajakt26.github.io/csb-mi4k8/index.html",
+    "static/css/main.ce290c5a.chunk.css.map": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/css/main.ce290c5a.chunk.css.map",
+    "static/js/2.c7b66185.chunk.js.LICENSE.txt": "https://gunjal-prajakt26.github.io/csb-mi4k8/static/js/2.c7b66185.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c80a7cf.js",
+    "static/js/2.c7b66185.chunk.js",
+    "static/css/main.ce290c5a.chunk.css",
+    "static/js/main.7ac943fb.chunk.js"
+  ]
+}
